@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-35-contracts-scope-emergency-pause-controls-by",
+    "fix/issue-88-frontend-generate-complete-social-metadata-for",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-35-contracts-scope-emergency-pause-controls-by": "main",
+    "fix/issue-88-frontend-generate-complete-social-metadata-for": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-35-contracts-scope-emergency-pause-controls-by",
+    "fix/issue-88-frontend-generate-complete-social-metadata-for",
+    "origin"
+  ]
+}
